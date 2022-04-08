@@ -1,6 +1,6 @@
 ### Oii! Eu sou o Daniel Imperato
 
-- 🔭 Hoje eu trabalho como Full Stack ReactJS | NodeJS
+- 🔭 Hoje eu trabalho como Full Stack ReactJS| Angular |NodeJS
 - 🌱 Estudando Typescript
 - 📫 Contate-me no email: imperato06@gmail.com
 - 😄 ele/dele
