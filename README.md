@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho como Full Stack  Angular | Java
 - 🌱 Estudando Typescript
 - 📫 Contate-me no email: imperato06@gmail.com
-- 😄 ele/dele
+- https://www.linkedin.com/in/danielimperato/
 
 <div align="center">
   <a href="https://github.com/Imperat0">
