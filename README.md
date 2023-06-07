@@ -1,4 +1,4 @@
-### Oii! Eu sou o Daniel Imperato
+### Olá! Sou o Daniel Imperato
 
 - 🔭 Hoje eu trabalho como Full Stack  Angular | Java
 - 🌱 Estudando Typescript
