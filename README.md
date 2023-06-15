@@ -1,7 +1,7 @@
 ### Olá! Sou o Daniel Imperato
 
 - 🔭 Hoje eu trabalho como Full Stack  Angular | Java
-- 🌱 Estudando Typescript
+- 🌱 Estudando Typescript && Java
 - 📫 Contate-me no email: imperato06@gmail.com
 - https://www.linkedin.com/in/danielimperato/
 
@@ -14,6 +14,7 @@
   <img align="center" alt="imperat0-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="imperat0-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="imperat0-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="imperat0-React" height="30" width="40" src="https://img.icons8.com/?size=512&id=13679&format=png">
   <img align="center" alt="imperat0-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="imperat0-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="imperat0-ANG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
