@@ -1,7 +1,7 @@
 ### Olá! Sou o Daniel Imperato
 
-- 🔭 Hoje eu trabalho como Full Stack  Angular | Java
-- 🌱 Estudante na EBAC
+- 🔭 Hoje eu trabalho como Full Stack Developer (Java | Angular)
+- 🌱 AI for Developers Postgraduate Student @ FIAP
 - 📫 Contate-me no email: imperato06@gmail.com
 - https://www.linkedin.com/in/danielimperato/
 
