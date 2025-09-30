@@ -56,7 +56,7 @@ Desenvolvedor e entusiasta de tecnologia, com foco em construir soluções robus
 ## 📫 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-imperato/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:imperato06@gmail.com">
@@ -69,12 +69,11 @@ Desenvolvedor e entusiasta de tecnologia, com foco em construir soluções robus
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/SEU-USERNAME-DO-GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Imperat0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imperat0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imperat0&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
-
 
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/Imperat0"> 🔗
