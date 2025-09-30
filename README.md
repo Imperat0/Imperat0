@@ -1,3 +1,80 @@
+### 👋 Olá, eu sou Daniel Imperato!
+
+Desenvolvedor e entusiasta de tecnologia, com foco em construir soluções robustas e inteligentes. Tenho experiência em desenvolvimento back-end com **Java** e **Python**, criação de interfaces dinâmicas com **Angular** e **TypeScript**, e uma paixão por aplicar **Machine Learning** para resolver problemas complexos.
+
+- 🌱 Atualmente explorando arquiteturas de MLOps e sistemas distribuídos.
+- 💬 Me pergunte sobre Java, Python, Angular e Machine Learning.
+- 📫 Como me encontrar: [imperato06@gmail.com](mailto:imperato06@gmail.com)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="Scikit-Learn" />
+      </a>
+      <br>Scikit-learn
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:imperato06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+## 📊 Minhas Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/SEU-USERNAME-DO-GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
+
 
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/Imperat0"> 🔗
