@@ -22,16 +22,16 @@
   
   ##
   
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/Imperat0"> 🔗
+  https://gitfollio.vercel.app/Imperat0
+</a>
 
   <a href = "mailto:imperato06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielimperato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
   
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/Imperat0"> 🔗
-  https://gitfollio.vercel.app/Imperat0
-</a>
 
 <!-- GitFolio:start
 {
