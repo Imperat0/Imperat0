@@ -2,8 +2,8 @@
 
 Desenvolvedor e entusiasta de tecnologia, com foco em construir soluções robustas e inteligentes. Tenho experiência em desenvolvimento back-end com **Java** e **Python**, criação de interfaces dinâmicas com **Angular** e **TypeScript**, e uma paixão por aplicar **Machine Learning** para resolver problemas complexos.
 
-- 🌱 Atualmente explorando arquiteturas de MLOps e sistemas distribuídos.
-- 💬 Me pergunte sobre Java, Python, Angular e Machine Learning.
+- 🎓 Cursando Pós-Graduação em Inteligência Artificial para Desenvolvedores na FIAP.
+- 🌱 Aprofundando em análise de dados e machine learning, com foco em algoritmos como KNN, Árvores de Decisão e técnicas de redução de dimensionalidade (PCA).
 - 📫 Como me encontrar: [imperato06@gmail.com](mailto:imperato06@gmail.com)
 
 ---
